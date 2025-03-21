@@ -4,22 +4,21 @@ Welcome to my GitHub profile!
 
 I'm a passionate data science fresher with a keen interest in leveraging data to solve real-world problems. Here's a little about me:
 
-- 🎓 A graduate of computer science and engineering.
-- 🌱 I'm currently learning and exploring various aspects of data science, including machine learning, data analysis, and data visualization.
-- 💼 I'm actively seeking opportunities to apply my skills and contribute to projects in the field of data science.
-- 🔍 I'm passionate about uncovering insights from data and using them to drive informed decision-making.
-- 💻 I enjoy coding in Python and using libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn.
-- 📊 I have experience working on projects involving data cleaning, exploratory data analysis, and building predictive models.
-- 📚 I'm constantly learning and expanding my knowledge through online courses, tutorials, and hands-on projects.
+- 🎓 A fresher with a background in Computer Science and a passion for Data Science and Full-Stack Development.  
+- 🌱 Currently exploring **machine learning, deep learning, and full-stack web development** while working as a **Credentialing Specialist at Harphil Solutions**.  
+- 💼 Actively seeking opportunities to apply my skills and contribute to **data-driven projects**.  
+- 🔍 Passionate about **extracting insights from data** and leveraging technology for **problem-solving**.  
+- 💻 Proficient in **Python, JavaScript, SQL**, and libraries like **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**.  
+- 📊 Experienced in **data cleaning, exploratory data analysis, API development, and building predictive models**.  
+- 📚 A **fast learner**, always expanding my knowledge through online courses, hands-on projects, and real-world applications. 🚀  
 
 ## Skills
 
 Here are some of the skills I've developed:
-- Python full stack development
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Machine learning algorithms
-- Data visualization
+- Python, JavaScript, HTML, CSS
+- Machine Learning, Data Science, SQL
+- Scikit-learn, Pandas, NumPy, Flask, React
+- API Development, Data Visualization
 
 ## Projects
 
@@ -32,7 +31,6 @@ Check out some of my projects:
 ## Goals
 
 My short-term goals:
-- Gain practical experience by working on real-world data science projects.
 - Enhance my skills in machine learning and predictive modeling.
 - Network with professionals in the field and learn from their experiences.
 
