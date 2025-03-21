@@ -41,8 +41,10 @@ My long-term goals:
 ## Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me:
-- Email: [lagumsanisaikiran@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=lagumsanisaikiran@gmail.com)
+📩 Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lagumsanisaikiran@gmail.com" target="_blank">Send me an Email</a>
 - LinkedIn: [linkedin.com/in/sai-kiran-lagumsani](https://www.linkedin.com/in/sai-kiran-lagumsani-7aa834206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sai-kiran-lagumsani-7aa834206/)
+
 
 Let's learn and grow together! 🚀
 
