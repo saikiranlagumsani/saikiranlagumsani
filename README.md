@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm a passionate data science fresher with a keen interest in leveraging data to solve real-world problems. Here's a little about me:
 
-- 🎓 I recently graduated with a degree in Computer Science and Engineering.
+- 🎓 A graduate of computer science and engineering.
 - 🌱 I'm currently learning and exploring various aspects of data science, including machine learning, data analysis, and data visualization.
 - 💼 I'm actively seeking opportunities to apply my skills and contribute to projects in the field of data science.
 - 🔍 I'm passionate about uncovering insights from data and using them to drive informed decision-making.
@@ -15,6 +15,7 @@ I'm a passionate data science fresher with a keen interest in leveraging data to
 ## Skills
 
 Here are some of the skills I've developed:
+- Python full stack development
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
 - Machine learning algorithms
