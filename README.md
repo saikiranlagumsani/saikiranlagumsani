@@ -41,8 +41,8 @@ My long-term goals:
 ## Let's Connect
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me:
-- Email: (https://mail.google.com/mail/?view=cm&to=lagumsanisaikiran@gmail.com)  
-- LinkedIn: [linkedin.com/in/sai-kiran-lagumsani](https://www.linkedin.com/in/sai-kiran-lagumsani-7aa834206/)
+- [Email](https://mail.google.com/mail/?view=cm&to=lagumsanisaikiran@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/sai-kiran-lagumsani-7aa834206/)
 
 
 Let's learn and grow together! 🚀
