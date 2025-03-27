@@ -16,9 +16,10 @@ I'm a passionate data science fresher with a keen interest in leveraging data to
 
 Here are some of the skills I've developed:
 - Python, JavaScript, HTML, CSS
-- Machine Learning, Data Science, SQL
-- Scikit-learn, Pandas, NumPy, Flask, React
+- Machine Learning, Data Science, MySQL
+- Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - API Development, Data Visualization
+- GitHub
 
 ## Projects
 
