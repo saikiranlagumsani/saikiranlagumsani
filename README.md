@@ -21,12 +21,6 @@ Here are some of the skills I've developed:
 - API Development, Data Visualization
 - GitHub
 
-## Projects
-
-Check out some of my projects:
-- [Project 1]([link-to-project-1](https://colab.research.google.com/drive/1XbsfPXySWlW2aFhS05D8OtNFNUy5jxcS)):
-- This project aims to predict loan approval decisions using machine learning algorithms. By analyzing historical loan application data, including applicant information, loan amount, cibil score, etc., the project builds predictive models to automate the loan approval process for financial institutions. Leveraging Python and popular machine learning libraries, such as Scikit-learn, this project demonstrates the application of data science in the financial sector to streamline operations and minimize risks.
-
 
 
 ## Goals
